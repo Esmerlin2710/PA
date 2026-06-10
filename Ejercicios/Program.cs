@@ -144,7 +144,7 @@ namespace Primeros_pasos
                     Console.WriteLine("Clima Cálido");
             }
 
-            // 6. Días de la semana
+            
             static void DiasSemana()
             {
                 Console.Write("Ingrese un número del 1 al 7: ");
@@ -179,7 +179,7 @@ namespace Primeros_pasos
                 }
             }
 
-            // 7. Calculadora básica
+            
             static void CalculadoraBasica()
             {
                 Console.Write("Primer número: ");
@@ -218,7 +218,7 @@ namespace Primeros_pasos
                 }
             }
 
-            // 8. Roles de usuario
+            
             static void RolesUsuario()
             {
                 Console.Write("Ingrese el rol (A, E, U, L): ");
@@ -248,7 +248,7 @@ namespace Primeros_pasos
                 }
             }
 
-            // 9. Dispensador de bebidas
+           
             static void DispensadorBebidas()
             {
                 Console.WriteLine("1. Café");
@@ -283,7 +283,7 @@ namespace Primeros_pasos
                 }
             }
 
-            // 10. Estaciones del año
+            
             static void EstacionesAnio()
             {
                 Console.Write("Ingrese un mes: ");
